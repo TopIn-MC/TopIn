@@ -166,7 +166,7 @@
     <dependency>
       <groupId>me.HSGamer</groupId>
       <artifactId>HSCore-config-path</artifactId>
-      <version>3.3</version>
+      <version>3.7</version>
     </dependency>
     <dependency>
       <groupId>me.HSGamer</groupId>
