@@ -192,7 +192,7 @@
     <dependency>
       <groupId>me.HSGamer</groupId>
       <artifactId>HSCore-collections</artifactId>
-      <version>3.3</version>
+      <version>3.7</version>
     </dependency>
     <dependency>
       <groupId>me.clip</groupId>
