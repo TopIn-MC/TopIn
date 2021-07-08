@@ -176,7 +176,7 @@
     <dependency>
       <groupId>me.HSGamer</groupId>
       <artifactId>HSCore-checker-spigotmc</artifactId>
-      <version>3.3</version>
+      <version>3.7</version>
       <exclusions>
         <exclusion>
           <groupId>com.googlecode.json-simple</groupId>
